@@ -1,0 +1,5 @@
+C:\Users\Evan\Documents\School\475\ense475_project\ense475_project\bin\Debug\ense475_project.dll
+C:\Users\Evan\Documents\School\475\ense475_project\ense475_project\bin\Debug\ense475_project.pdb
+C:\Users\Evan\Documents\School\475\ense475_project\ense475_project\obj\Debug\ense475_project.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Documents\School\475\ense475_project\ense475_project\obj\Debug\ense475_project.dll
+C:\Users\Evan\Documents\School\475\ense475_project\ense475_project\obj\Debug\ense475_project.pdb
