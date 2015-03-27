@@ -1,5 +1,4 @@
 # ense475_project
-
 To get up and running in Visual Studios:
     - Install Unity: 
     - Install Visual Studio
@@ -35,4 +34,3 @@ To Run Tests:
 
             
         
-    
