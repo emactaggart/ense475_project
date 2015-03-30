@@ -30,7 +30,16 @@ To get up and running in Visual Studios:
 
 To Run Tests:
     -Test -> Run -> All Tests
+    Note*: The xUnit Test Runners may be required
+        - install via Nuget Package manager
 
 
+So there is a pretty big issue with testing both the TeamsController and MatchController as they both inherit the MonoBehaviour class. We won't be able to test them directly as 
+    they can only be constructed via the and not via any code we write so at the moment they are literally untestable without any
+    serious hacks (I'm not even certain how to hack around this either). And Since we can't refarctor the source code directly we can 
+    just pretend it's easy to work with instead.
+
+The following link touchs on why we won't be able to test anything inheriting MonoBehaviour directly.
+http://blogs.unity3d.com/2014/06/03/unit-testing-part-2-unit-testing-monobehaviours/
             
         
